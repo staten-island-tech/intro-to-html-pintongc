@@ -1,17 +1,18 @@
 body {
-    background-color: darkolivegreen;
-    font-size: 16px;
+    background-color: ivory;
+    font-size: 20px;
+}
+
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
 }
 
 li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
 }
 
-.list-item {
-    font-size: 36px;
-}
-
-#id-item {
-    font-size: 20px;
-    text-align: center;
+p {
+    width: 50%;
 }
